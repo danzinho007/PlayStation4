@@ -1,0 +1,132 @@
+DentroPS4
+O que tem quando abre no FTTP ( FilezilaTransferProtocol)
+Mostra o conteúdo das pastas
+
+mnt > sandbox > NPSXS20001_000 > photo > NPXS2001 > CUSA13501 > Obs¹
+Obs:
+1 = Várias pastas, dentro de cada uma tem um arquivo dat e um jpg
+Se a pessoa marcou pra tirar foto quando faz um conquista, vai ter um arquivo ext também
+Exemplo : 19700102_054331_00908918.jpg
+
+mnt > sandbox > NPXS20001_000 > av_contents > thumbnails > photo > NPXS2001 > CUSA13501 > Obs²
+2 = Idem Obs¹ sendo que são imagens pequenas formato .jpg.jpg
+
+mnt > sandbox > NPXS20001_000 > av_contents > thumbnails > video > NPXS20001 > CUSA00012 > Obs3
+Idem Obs1 sendo que são vídeos ( não sei o formato, pois não salvei )
+Deve ser capas de vídeos, pois está na pasta thumbnails
+
+mnt > sandbox > NPXS20001_000 / av_contents > video > NPXS20001 > CUSA00012 > Obs3
+Vídeos formato original
+
+mnt > sandbox > NPXS20001_000/bgft/task/0000b3
+Aquivos:
+app.pbm
+app.pbm.backup
+d0.pdb
+d1.pdb
+icon.png
+OBS: Baixei alguns e alguns são capas de jogos, outros são temas
+
+mnt/sandbox/NPXS2001_000/user/download/CUSA00433
+Arquivos:
+download0.dat
+download0_info.dat
+
+system_data/savedata/000000/db/user
+Arquivos : savedata.db
+
+system_ex/app/CUSA00219/sce_sys
+Arquivos:
+icon0.png
+param.sfo
+OBS: Baixei um save da net e veio a pasta sce_sys dentro da pasta do jogo, porém nela veio também com os arquivos :
+keystone
+sce_icon0png1
+Veio assim :
+Pasta 00001 > savedat0 > sce_sys
+No savedat0 tem os arquivos:
+_RR_autosave
+replay_data
+seasonBanner
+whatIsNew
+
+user/addcont/CUSA01915/OMEGADLC00002 ( arquivoDentro: ac.pkg )
+user/addcont/CUSA01915/OMEGADLC00004
+user/addcont/CUSA13501/NORSELANDS00000
+OBS: Pelo que percebi nessa pasta tem todas DLCs do jogo
+
+user/app/CUSA13501
+Arquivos:
+app.json
+app.pbm
+app.pbm.backup
+app.pkg
+app.xml
+OBS: Configurações do jogo ?
+
+user/appmeta/CUSA13501
+Arquivos:
+icon0.dds
+icon0.png
+pic0.dds
+pic0.png
+pic1.dds
+pic1.png
+pronunciation.x.xml
+save_data.png
+shareparam.json
+snd0.at9
+OBS: Parece arquivos pra pessoa começar o jogo falando pelo controle
+
+user/patch/CUSA13501
+Arquivos:
+patch.json
+patch.pbm
+patch.pbm.backup
+patch.pkg
+patch.x.xml
+OBS: Pelo que percebi são arquivos relacionos a histório de atualização
+
+user/home/17a57ae8
+user/home/10000000
+user/home/17a57ae8
+OBS: Pelo que percebi são usuários do ps4
+
+user/home/1000001/savedata/CUSA00093
+Arquivos:
+GHOST
+GHOSTS.bin
+PROFILE
+PROFILE.bin
+REPLAYS
+REPLAYS.bin
+
+user/home/100001/savedata/CUSA13501
+Arquivos:
+global-v35.bin
+island-v35-c0.I0.bin
+island-v35-c0.I1.bin
+island-v35-c0.I2.bin
+island-v35-c0.I3.bin
+island-v35-c0.I4.bin
+island-v35-c1.I1.bin
+sce_bu_sce_sdmemory.bin
+sce_sdmemory.bin
+sdimg_global-v35-c0-I0
+sdimg_global-v35-c0-I1
+sdimg_global-v35-c0-I2
+sdimg_global-v35-c0-I3
+sdimg_global-v35-c0-I0
+sdimg_global-v35-c1-I1
+sdimg_sce_bu_sce_sdmemory
+sdimg_sce_sdmemory
+
+user/home/100001/trophy/data/NPWR0494_00
+Arquivos:
+sealedkey
+trophy.img
+
+/user/trophy/conf/VariasPastas
+As pastas são chamadas de por exemplo de NPWR04914_00
+NPWR é o troféu e 0414 é o código do jogo
+https://www.serialstation.com/trophies/?page=2
