@@ -10,3 +10,6 @@ https://x.com/backport893
 Seriais de PS4 :
 orbispatches
 https://x.com/orbispatches
+
+Reportar vulnerabilidades:
+https://hackerone.com/playstation?type=team
